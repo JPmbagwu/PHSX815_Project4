@@ -17,9 +17,9 @@ The usage of two separate plotting libraries necessitates independent download, 
 
 * matplotlib (python)
 
-The python files `VariationalH.py` and `Random.py` can be run from the terminal by typing:
+The python files `VariationalHO.py` and `Random.py` can be run from the terminal by typing:
 
-`<> python VariationalH.py`
+`<> python VariationalHO.py`
 
 `<> python Random.py`
 
